@@ -14,7 +14,7 @@ Here's how you can get better at evaluating each person's unique [*threat model*
 
 We regularly use the term "threat model" in cybersecurity and data privacy. This might sound obscure at first if you haven't seen it before, but it's quite simple: A threat model is an evaluation of what is dangerous for a certain person (or entity) in a given situation, and what protective measures should be prioritized.
 
-For example, if you leave near the equator, polar bears might not be an important threat to your safety. However, if you live in Nunavut, it may be important to get information on how to prevent a polar bear attack.
+For example, if you live near the equator, polar bears might not be an important threat to your safety. However, if you live in Nunavut, it may be important to get information on how to prevent polar bear attacks are.
 
 Similarly, when you choose privacy protections for yourself or for others, you should first ask a few questions to understand better what information you are trying to protect, from whom, and in which context.
 
@@ -22,7 +22,7 @@ Similarly, when you choose privacy protections for yourself or for others, you s
 
 To establish a threat model, ask the following questions:
 
-1. What information leak could endanger this person or organization the most?
+1. What information, if leaked, could endanger this person or organization the most?
 2. Who this information should be protected from?
 3. How likely is it that this person or entity could access this information?
 4. What could happen if this person or entity had access to this information?
